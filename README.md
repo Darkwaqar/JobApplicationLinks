@@ -40,6 +40,7 @@ Are you interested in starting a remote career but unsure of where to begin? Loo
  * [Procurify](https://procurify.com/careers)(Canada)
  * [Paytm Labs](https://paytmlabs.com/)(Canada, USA)
 
+### Europe
 * [Heetch](https://heetch.com/)(Central Europe Time (CET) +/1h)
 * [ActiveCampaign](https://www.activecampaign.com/)(Dublin, Ireland; USA)
 * [Pleo](https://www.pleo.io/)" East American /European/Africantimezones")
@@ -51,7 +52,7 @@ Are you interested in starting a remote career but unsure of where to begin? Loo
 * [Cyber Whale](https://cyberwhale.tech)(Europe)
 * [Dalenys](https://dalenys.com/)(Europe)
 * [DareCode](https://darecode.com/)(Europe)
-* [Equal Experts Portugal)" https://www.equalexperts.com/contact-us/lisbon/")(Europe)
+* [Equal Experts Portugal)(https://www.equalexperts.com/contact-us/lisbon/)(Europe)
 * [FATMAP](https://about.fatmap.com/careers)(Europe)
 * [Fraudio](https://www.fraudio.com/)(Europe)
 * [FullFabric](https://fullfabric.com/)(Europe)
@@ -85,9 +86,13 @@ Are you interested in starting a remote career but unsure of where to begin? Loo
 * [Airbyte](https://airbyte.com/)(Europe, North America, Latin America)
 * [Instructure](https://www.instructure.com/)(Europe, North America, Oceania)
 * [Uncapped](https://weareuncapped.com/)(Europe, USA)
+
+### France
 * [Comet](https://www.comet.co/)(France)
 * [Gitbook](https://www.gitbook.com/)(France)
 * [Gojob](https://gojob.com/)(France)
+
+### Germany
 * [Lifen](https://www.lifen.health/)(France, Germany, UK)
 * [abiturma](https://www.abitur ma.de/)(Germany)
 * [Aivitex](https://aivitex.com/)(Germany)
@@ -99,6 +104,8 @@ Are you interested in starting a remote career but unsure of where to begin? Loo
 * [CANCOM](https://www.cancom.com/)(Germany, Austria, Slovakia)
 * [Freeletics](https://www.freeletics.com/)(Germany, Poland, Portugal)
 * [Zeit.io](https://zeit.io/)(Germany, The Netherlands, Spain, Chile)
+
+### India
 * [Aim India](https://www.aimincorp.com/)(India)
 * [Clootrack](https://www.clootrack.com/)(India)
 * [Coingape](https://coingape.com/)(India)
@@ -108,19 +115,30 @@ Are you interested in starting a remote career but unsure of where to begin? Loo
 * [Nuage](https://nuagebiz.tech/)(India)
 * [Remote Garage)(http://www.remotegarage.club/)(India)
 * [ChatGen](https://chatgen.ai/)(India, USA)
+
+### Indonesia
 * [Alami](https://alamisharia.co.id/en/)(Indonesia)
 * [eFishery](https://efishery.com/)(Indonesia)
 * [Flip](https://flip.id)(Indonesia)
+
+### Ireland
 * [Annertech](https://www.annertech.com)(Ireland)
+
+### Italy
 * [Eco-Mind](https://eco - mind.eu/)(Italy)
 * [Flowing](https://flowing.it)(Italy)
 * [Madisoft](https://labs.madisoft.it/)(Italy)
 * [Opencity Labs](https://opencitylabs.it/)(Italy)
+
+### Japan
 * [Mercari](https://about.mercari.com/en/)(Japan)
+
+### Latin America
 * [Aerolab](https://aerolab.co/)(Latin America)
 * [Pragma](https://www.pragma.co/)(Latin America)
 * [Teravision Technologies](https://teravisiontech.com/)(Latin America)
 * [Truelogic](https://www.truelogicsoftware.com/)(Latin America)
+
 * [Algorithmia](https://algorithmia.com/)(North America)
 * [Blameless](https://www.blameless.com/)(North America)
 * [Bloc](https://www.bloc.io/)(North America)
