@@ -17,23 +17,24 @@ Are you interested in starting a remote career but unsure of where to begin? Loo
 * [Dgraph](https://dgraph.io/)
 
 
+### Brazil
+ * [Beyond Company](https://beyondcompany.com.br/)	
+ * [Brave Investments](https://www.crunchbase.com/organization/brave-investment")	
+ * [ChefsClub](https://www.chefsclub.com.br/)	
+ * [Coodesh](https://coodesh.com/)	
+ * [Enjoei](https://www.enjoei.com.br/)	
+ * [Gerencianet](https://gerencianet.com.br)	
+ * [iClinic](https://iclinic.com.br/)	
+ * [Lyseon Tech](https://lt.coop.br/)	
+ * [Olist](https://olist.com/)	
+ * [Procenge Tecnologia](https://www.procenge.com.br)	
+ * [StoneCo](https://www.stone.co/)	
+ * [XP Inc](https://www.xpi.com.br/)	
+ * [ZAMP](https://zamp.com.br/)
+ * [Zup](https://zup.com.br/)	 Brazil	-ATUL KUMAR (LINKED IN)	
+ * [Superplayer & Co](https://superplayer.company/)	 Brazil, Latin America	
+ * [Voxy](https://boards.greenhouse.io/voxy)	 Brazil, USA	
 
- Beyond Company	 https://beyondcompany.com.br/	 Brazil	
- Brave Investments	" https://www.crunchbase.com/organization/brave-investment"	 Brazil	
- ChefsClub	 https://www.chefsclub.com.br/	 Brazil	
- Coodesh	 https://coodesh.com/	 Brazil	
- Enjoei	 https://www.enjoei.com.br/	 Brazil	
- Gerencianet	 https://gerencianet.com.br	 Brazil	
- iClinic	 https://iclinic.com.br/	 Brazil	
- Lyseon Tech	 https://lt.coop.br/	 Brazil	
- Olist	 https://olist.com/	 Brazil	
- Procenge Tecnologia	 https:/ /www.procenge.com.br	 Brazil	
- StoneCo	 https://www.stone.co/	 Brazil	
- XP Inc	 https://www.xpi.com.br/	 Brazil	
- ZAMP	 https://zamp.com.br/	 Brazil	
- Zup	 https://zup.com.br/	 Brazil	-ATUL KUMAR (LINKED IN)	
- Superplayer & Co	 https://superp layer.company/	 Brazil, Latin America	
- Voxy	 https://boards.greenhouse.io/voxy	 Brazil, USA	
  Ollie Order	 https://ollieorder.com/	 Canada	
  Procurify	 https://procurify.com/careers	 Canada	
  Paytm Labs	 https://paytmlabs.com/	 Canada, USA	
