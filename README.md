@@ -1,5 +1,11 @@
 # Job Application Link
+
+## Apply Direct to Companies: A Collection of Job Application Links
 This repository is a one-stop-shop for job seekers, offering a comprehensive list of direct job application links to various companies. Bypass the hassle of going through job boards and save time by applying directly to the companies you are interested in. Keep this page bookmarked for easy access to job opportunities.
+
+
+## Remote Job Opportunities: A Compilation of Direct Application Links
+Explore job opportunities from the comfort of your own home with this repository of direct application links for remote jobs. Stay ahead of the game and find your dream job without the hassle of navigating through job boards. This repository is regularly updated with new and exciting job listings, so keep it handy for your job search journey.
 
 ### Asia
  * [Adaface](https://www.adaface.com/)
