@@ -1,5 +1,5 @@
-# Remotework
-Are you interested in starting a remote career but unsure of where to begin? Look no further! Here's a compilation of global organizations that are accommodating of remote work. Please let me know if this information is helpful by giving it a like and sharing it.
+# Job Application Link
+This repository is a one-stop-shop for job seekers, offering a comprehensive list of direct job application links to various companies. Bypass the hassle of going through job boards and save time by applying directly to the companies you are interested in. Keep this page bookmarked for easy access to job opportunities.
 
 ### Asia
  * [Adaface](https://www.adaface.com/)
